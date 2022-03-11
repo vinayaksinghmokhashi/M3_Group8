@@ -31,6 +31,8 @@ Slower growth in an innovation always threat for the company in this dynamic wor
 
 ## 4W'S 1H
 
+[image](https://user-images.githubusercontent.com/98875588/157240229-49637612-c5c6-49d0-873c-ed4c4728d348.png)
+
 ## WHAT 
 
 ## WHAT
