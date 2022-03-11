@@ -17,25 +17,37 @@ This is the plot of cost of the car in ($ ) and time in years
 
 ## SWOT ANALYSIS
 
-Strengths: Innovative, User-friendly.
+![image](https://user-images.githubusercontent.com/98875588/157241542-9ad82d15-c4b7-464b-8e71-2c5bc1229e6a.png)
 
-Weakness: Cost of car increases as features added in the car also increases'
+## Strengths
 
-Opportunities: We know that we mostly use inserting key to get started, So tech based market always attracts the youth.
+Innovative, User-friendly.
 
-Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+## Weakness
+
+Cost of car increases as features added in the car also increases'
+
+## Opportunities 
+
+We know that we mostly use inserting key to get started, So tech based market always attracts the youth.
+
+## Threats
+
+Slower growth in an innovation always threat for the company in this dynamic world.
 
 ## 4W'S 1H
 
-who : 
+[image](https://user-images.githubusercontent.com/98875588/157240229-49637612-c5c6-49d0-873c-ed4c4728d348.png)
 
-What: 
+## WHO
 
-Where: 
+## WHAT
 
-When: 
+## WHERE
 
-How: 
+## WHEN
+
+## HOW
 
 ### High level requirements
 
