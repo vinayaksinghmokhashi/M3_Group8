@@ -58,9 +58,7 @@ Slower growth in an innovation always threat for the company in this dynamic wor
 |HLR_03|System shall be having a feature of alarm activation/deactivation|Technical|
 |HLR_04|System shall be having a feature of approach light|Technical|
 
-Low level requirements
-
-###   Low level requirements
+### Low level requirements
 
 | Test ID | Description |HLR ID | Category | 
 |---------|-------------|-------|----------|
