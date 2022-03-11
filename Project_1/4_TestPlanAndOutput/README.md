@@ -10,7 +10,15 @@
 ## 1.2 LOW LEVEL TEST PLAN
 |Test ID|	Description|	Input	|Expected output|	Actual Output|	Status|
 |-------|------------|--------|---------------|--------------|--------|
-|01| check for BTN_Pressed Enable|	 User Button Presses once|	All LEDs turned on|	All LEDs turned on|	✅|
-|02|	Check for BTN_Pressed disable| User Button Presses twice|	All LEDs turned off|		All LEDs turned off|	✅|
-|03|	Check for BTN_Pressed Enable| User Button Presses thrice	|LED is on with clockwise rotation|LED is on clockwise rotation|	✅|
-|04	|Check for BTN_Pressed disable	|User Button Presses thrice	|LED is On with anticlockwise rotation	|LED is on with anticlockwise rotation	|✅|
+|LLTP_01| check for BTN_Pressed Enable|	 User Button Presses once|	All LEDs turned on|	All LEDs turned on|	✅|
+|LLTP_02|	Check for BTN_Pressed disable| User Button Presses twice|	All LEDs turned off|		All LEDs turned off|	✅|
+|LLTP_03|	Check for BTN_Pressed Enable| User Button Presses thrice	|LED is on with clockwise rotation|LED is on clockwise rotation|	✅|
+|LLTP_04	|Check for BTN_Pressed disable	|User Button Presses thrice	|LED is On with anticlockwise rotation	|LED is on with anticlockwise rotation	|✅|
+
+|Test ID|	Description|	Input	|Expected output|	Actual Output|	Status|
+|-------|------------|--------|---------------|--------------|--------|
+|LLTP_01|	check for BTN_Pressed Enable|	Button pressed once|Locked|	Locked|	✅|	
+|LLTP_02	|Check for BTN_Pressed disable|Button pressed twice|	Un-locked|Un-locked	|	✅|
+|LLTP_03	|check for BTN_Pressed Enable|Button pressed thrice|	Alarm activated|	Alarm activated|	✅|
+|LLTP_04| check for BTN_Pressed Enable|Button pressed thrice|	Alarm deactivated|	Alarm deactivated|	✅|
+|LLTP_05	|Check for BTN_Pressed disable|Button pressed four times|Approach light turned on|	Approach light turned on	|	✅|
