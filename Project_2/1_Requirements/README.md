@@ -6,7 +6,7 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 Remote Keyless Entry (RKE) systems are the successors to the traditional method of opening car doors by inserting physical keys. Keys with RKE-capabilities allow key-holders to remotely lock and unlock car doors, start or stop engines, or turn on and off anti-theft alarms.
 
 ## 1.3 Description
-BiCom System: This system aims to acgive the goal of displaying Window Status, Alarm Status, Battery Information and Door Status .
+BiCom System: This system aims to achive the goal of displaying Window Status, Alarm Status, Battery Information and Door Status .
 There are particular led signaling for particular functionalities. 
 Lets consider if we press a button 1 time all the LED will be on which means the Window status of car will be displayed, and so on.
 
