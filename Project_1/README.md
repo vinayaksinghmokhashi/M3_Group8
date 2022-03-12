@@ -1,4 +1,5 @@
-## About
+## About Code
+
 ## 1.1 Introduction
 Remote keyless entry (RKE) is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock. Typically, the action is to press a button on a physical fob or mobile app.
 
@@ -25,3 +26,13 @@ Remote keyless entry(R.K.E): This system aims to achive the goal of Locking the 
 |HLR_03|System shall be having a feature of alarm activation/deactivation|Technical|
 |HLR_04|System shall be having a feature of approach light|Technical|
 
+### 4.2 Low level requirements
+
+| Test ID | Description |HLR ID | Category | 
+|---------|-------------|-------|----------|
+|LLR_01 | Pressing a particular button shall switch on the all LED's at a same time|HLR_01|Functional|
+|LLR_02|Pressing a button twice shall turn LED's on in clockwise manner|HLR_03|Functional|
+|LLR_03|Pressing a particular button shall switch off the LED'sat a same time |HLR_02|Functional|
+|LLR_04|Pressing a button twice shall turn LED's on in Green -> Orange -> Red -> Blue fashion|HLR_03| Functional|
+|LLR_05|Pressing a button four times shall turn LED's on in clockwise manner|HLR_04|Functional|
+|LLR_06|Pressing a button twice shall turn LED's on in Green -> Orange -> Red -> Blue fashion|HLR_04|Functional|
