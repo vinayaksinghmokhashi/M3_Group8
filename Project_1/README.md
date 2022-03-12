@@ -1,7 +1,9 @@
 ## About Code
-|code quality|
-|------------|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/131382834c4544179992d340ef423bd3)](https://www.codacy.com/gh/vinayaksinghmokhashi/M3_Group8/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinayaksinghmokhashi/M3_Group8&amp;utm_campaign=Badge_Grade)|
+|code quality| Code Grade Codiga | Code Score Codiga
+|------------|----------------|-------------------|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/131382834c4544179992d340ef423bd3)](https://www.codacy.com/gh/vinayaksinghmokhashi/M3_Group8/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinayaksinghmokhashi/M3_Group8&amp;utm_campaign=Badge_Grade)|![svg](https://user-images.githubusercontent.com/46382398/158003126-9b30a04d-4a98-4a68-b70b-c6b16eabb3c9.svg)|![svg](https://user-images.githubusercontent.com/46382398/158003135-ce91165f-3236-4a1c-80f1-85eb90e9622c.svg) |
+
+
 
 ## 1.1 Introduction
 Remote keyless entry (RKE) is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock. Typically, the action is to press a button on a physical fob or mobile app.
