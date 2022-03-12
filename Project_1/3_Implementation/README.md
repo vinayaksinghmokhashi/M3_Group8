@@ -11,7 +11,6 @@
 * Run "make all " command in terminal for main code execution in Cygwin
 * Run "qemu-system-gnuarmeclipse.exe -M STM32F4-Discovery -mcu STM32F407VG -kernel finalled.elf^C " command in terminal for Ececution 
 
-
 |Folder|	Description |
 |------|--------------|
 |inc|	Contains header file |
