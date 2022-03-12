@@ -1,7 +1,14 @@
-## BLOCK DIAGRAM
+## Architecture
 
-![diagram](https://user-images.githubusercontent.com/98875588/157852319-9349f380-d362-4944-96ed-5958fc8504b9.gif)
+## 1. Behaviourral diagrams
+### 1.1 Flow chart
+![pr1](https://user-images.githubusercontent.com/98843684/158003017-a9128f8f-ec42-487e-97ff-77fe2eb2e7d5.png)
+High level flow chart
+### 1.2 Flow chart
+![pr1(1)](https://user-images.githubusercontent.com/98843684/158003044-b796d974-f1e1-4665-9e06-7686ee1face0.png)
+Low level flowchart
+## 2. Strctural diagrams
+### 2.1 Use case diagram
 
-## STRUCTURAL DIAGRAM
+### 2.2 Use case diagram
 
-![image](https://user-images.githubusercontent.com/98875588/157853717-343a5636-1f1e-4f7a-8dbe-76bddb80fb10.png)
