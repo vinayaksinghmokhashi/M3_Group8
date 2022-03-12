@@ -22,3 +22,11 @@ A Remote Keyless Entry is a type of electronic lock that regulates the entrance 
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/131382834c4544179992d340ef423bd3)](https://www.codacy.com/gh/vinayaksinghmokhashi/M3_Group8/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinayaksinghmokhashi/M3_Group8&amp;utm_campaign=Badge_Grade)|![svg](https://user-images.githubusercontent.com/46382398/158003126-9b30a04d-4a98-4a68-b70b-c6b16eabb3c9.svg)|![svg](https://user-images.githubusercontent.com/46382398/158003135-ce91165f-3236-4a1c-80f1-85eb90e9622c.svg) |
 
 
+# Contibutors List and Summary
+
+|SL No| Name  | Contibution |
+|------------|----------------|-------------------|
+|01 | K A Amira Sohail | |
+|02| Vinayak Singh||
+|03| Sakti Ganesh ||
+|04| Sabitha Saravanan ||
