@@ -37,5 +37,5 @@ A Remote Keyless Entry is a type of electronic lock that regulates the entrance 
 |------|------|------|-----|-----|-------------------|-------------------------|
 |01 | K A Amira Sohail |  &#9745;| &#9745; | &#9745; | &#9745;| &#9745; |
 |02| Vinayaksingh Mokhashi|&#9745;| &#9745; |&#9745; | &#9745;|&#9745; |&#9745; | |
-|03| Sakti Ganesh |&#9745;| &#9745; | | | | | |
+|03| Sakti Ganesh |&#9745;| &#9745; |&#9745 | | | | |
 |04| Sabitha Saravanan |&#9745;| &#9745;|&#9745; | | | | |
